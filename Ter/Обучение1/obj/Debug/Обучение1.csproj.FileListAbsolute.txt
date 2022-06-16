@@ -1,0 +1,8 @@
+C:\Users\grego\Desktop\сишарп\Обучение!\Обучение1\obj\Debug\Обучение1.csproj.AssemblyReference.cache
+C:\Users\grego\Desktop\сишарп\Обучение!\Обучение1\obj\Debug\Обучение1.csproj.SuggestedBindingRedirects.cache
+C:\Users\grego\Desktop\сишарп\Обучение!\Обучение1\obj\Debug\Обучение1.csproj.CoreCompileInputs.cache
+C:\Users\grego\Desktop\сишарп\Обучение!\Обучение1\bin\Debug\Обучение1.exe.config
+C:\Users\grego\Desktop\сишарп\Обучение!\Обучение1\bin\Debug\Обучение1.exe
+C:\Users\grego\Desktop\сишарп\Обучение!\Обучение1\bin\Debug\Обучение1.pdb
+C:\Users\grego\Desktop\сишарп\Обучение!\Обучение1\obj\Debug\Обучение1.exe
+C:\Users\grego\Desktop\сишарп\Обучение!\Обучение1\obj\Debug\Обучение1.pdb
