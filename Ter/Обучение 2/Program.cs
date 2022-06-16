@@ -15,7 +15,7 @@ namespace Обучение_2
             array = new int[5] {5,6,7,8,9};
             array[0] = 5;
             int a= array.Length;
-
+            int b;
         }
     }
 }
